@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="#">
-    <img src="../d-budget-frontend/src/images/d-logo.png" alt="D-Budget Logo" width="120" />
-  </a>
-</p>
-
 <h1 align="center">D‑Budget – Backend (Express + MongoDB)</h1>
 
 <p align="center">
